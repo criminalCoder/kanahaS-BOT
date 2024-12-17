@@ -8,3 +8,6 @@ dnspython
 aiohttp
 telethon
 psutil
+motor
+telethon
+pymongo[srv]==3.12.3
