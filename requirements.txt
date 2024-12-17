@@ -11,3 +11,4 @@ psutil
 motor
 telethon
 pymongo[srv]==3.12.3
+requests
